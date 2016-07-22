@@ -12,7 +12,6 @@ public class Cliente {
     private String respbairrocid;
 
 
-
     public long getCod() {
         return cod;
     }
